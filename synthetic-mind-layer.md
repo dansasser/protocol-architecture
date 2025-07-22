@@ -77,6 +77,6 @@ Daniel T. Sasser II conceptualized the protocol framework, developed the POCP, R
 
 This paper is part of the Synthetic Cognition Series hosted at [github.com/dansasser](https://github.com/dansasser). It is licensed under the MIT License. Protocol definitions, supporting documents, and implementation guides are included in this repository.
 
-**12. Suggested Citation**
+**12. Citation**
 
 Sasser, D. T. (2025). *Protocols as a Synthetic Mind Layer: Bridging Cognitive Logic and Aesthetic Taste in Agentic Systems*. GitHub Repository.
