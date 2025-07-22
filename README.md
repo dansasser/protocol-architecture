@@ -6,7 +6,7 @@
 ![Architecture](https://img.shields.io/badge/architecture-protocol--driven-critical)
 ![AI Alignment](https://img.shields.io/badge/alignment-consistent--output-blueviolet)
 ![Modularity](https://img.shields.io/badge/modular-cognition-orange)
-![Last Updated](https://img.shields.io/github/last-commit/dansasser/protocol-ai-framework)
+![Last Updated](https://img.shields.io/github/last-commit/dansasser/protocol-architecture)
 
 
 **Welcome to the official repository for our Protocol-Driven Agentic AI Framework.**
