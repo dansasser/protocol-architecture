@@ -1,6 +1,7 @@
 # 🧠 Protocol-Driven AI Architecture
 ---
-![MIT License](https://img.shields.io/github/license/dansasser/protocol-architecture?color=green)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 ![Build](https://img.shields.io/badge/build-stable-brightgreen)
 ![Protocol Status](https://img.shields.io/badge/protocols-3%20active-blue)
 ![Architecture](https://img.shields.io/badge/architecture-protocol--driven-critical)
