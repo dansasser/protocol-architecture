@@ -94,19 +94,19 @@ The next frontier is the development of an open ecosystem of shareable protocols
 [5] Sasser, Daniel T. "Punctuated Output Control Protocol (POCP)." 2025.
 [6] Sasser, Daniel T. "Readability Enhancement Protocol (REP)." 2025.
 
-**8. Acknowledgements**
+### **8. Acknowledgements**
 
 We wish to thank the collaborative efforts of AI assistants, including ChatGPT and Gemini, whose contextual reasoning, protocol interpretation, and iterative refinement helped shape and validate the ideas presented in this work.
 
-**9. Author Contributions**
+### **9. Author Contributions**
 
 Daniel T. Sasser II conceptualized the protocol framework, developed the POCP, REP, and HIP models, and oversaw system implementation within MCP-based agent stacks. LLM-based agents provided iterative feedback, contextual reasoning, and multi-pass refinement through a structured protocol-review workflow. This paper represents a joint human-AI synthesis of research, reflection, and systems design.
 
-**10. Licensing & Repository Information**
+### **10. Licensing & Repository Information**
 
 This paper is part of the Synthetic Cognition Series hosted at [github.com/dansasser](https://github.com/dansasser). It is licensed under the MIT License. Protocol definitions, supporting documents, and implementation guides are included in this repository.
 
-**11. Citation**
+### **11. Citation**
 
 Sasser, D. T. (2025). *Protocols as a Synthetic Mind Layer: Bridging Cognitive Logic and Aesthetic Taste in Agentic Systems*. GitHub Repository.
 
