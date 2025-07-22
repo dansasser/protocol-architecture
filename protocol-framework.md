@@ -1,5 +1,8 @@
-**Beyond Prompting: A Protocol-Driven Architecture for Reliable and Consistent AI Agents**
+# **Beyond Prompting: A Protocol-Driven Architecture for Reliable and Consistent AI Agents**
 *Introducing HIP, POCP, and REP as a Foundational Layer for Agentic Governance*
+
+
+[![Author: Daniel T. Sasser II](https://img.shields.io/badge/Author-Daniel_T._Sasser_II-orange.svg)](https://dansasser.me)
 
 ---
 
