@@ -85,13 +85,7 @@ The next frontier is the development of an open ecosystem of shareable protocols
 
 ---
 
-### 7.0 Acknowledgments
-
-The author wishes to thank the Gorombo development team, early users of the MCP servers, and collaborators in the AI research community who contributed to the iterative design of the protocols. Feedback and insights from agents powered by Gemini and ChatGPT were instrumental in the real-world validation of this architecture.
-
----
-
-### 8.0 References
+### 7.0 References
 
 [1] Anthropic. "Constitutional AI." 2023.
 [2] Microsoft. "AutoGen Framework Documentation." 2024.
@@ -99,3 +93,21 @@ The author wishes to thank the Gorombo development team, early users of the MCP 
 [4] Sasser, Daniel T. "Hyperlink Interpretation Protocol (HIP)." 2025.
 [5] Sasser, Daniel T. "Punctuated Output Control Protocol (POCP)." 2025.
 [6] Sasser, Daniel T. "Readability Enhancement Protocol (REP)." 2025.
+
+**8. Acknowledgements**
+
+We wish to thank the collaborative efforts of AI assistants, including ChatGPT and Gemini, whose contextual reasoning, protocol interpretation, and iterative refinement helped shape and validate the ideas presented in this work.
+
+**9. Author Contributions**
+
+Daniel T. Sasser II conceptualized the protocol framework, developed the POCP, REP, and HIP models, and oversaw system implementation within MCP-based agent stacks. LLM-based agents provided iterative feedback, contextual reasoning, and multi-pass refinement through a structured protocol-review workflow. This paper represents a joint human-AI synthesis of research, reflection, and systems design.
+
+**10. Licensing & Repository Information**
+
+This paper is part of the Synthetic Cognition Series hosted at [github.com/dansasser](https://github.com/dansasser). It is licensed under the MIT License. Protocol definitions, supporting documents, and implementation guides are included in this repository.
+
+**11. Citation**
+
+Sasser, D. T. (2025). *Protocols as a Synthetic Mind Layer: Bridging Cognitive Logic and Aesthetic Taste in Agentic Systems*. GitHub Repository.
+
+---
