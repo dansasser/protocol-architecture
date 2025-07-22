@@ -31,7 +31,7 @@ This paper outlines:
 #### 2. **Synthetic Cognition via Protocol Modularity**
 
 > A paper mapping each protocol to cognitive analogues (perception, tone control, and clarity logic).
-> ✅ [Read it here → `modular-cognition.md`](./modular-cognition.md)
+> ✅ [Read it here → `synthetic-mind-layer.md`](./synthetic-mind-layer.md)
 
 This paper expands on:
 
