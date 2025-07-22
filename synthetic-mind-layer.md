@@ -72,17 +72,16 @@ This protocol-driven approach offers a "third way" in the historical pursuit of 
 
 The path to more capable AI is not just through bigger models, but through better architecture. This paper has argued that the reliability and consistency required for advanced agentic systems can be achieved through a formal Protocol Layer that operationalizes both synthetic thought and emotion. The logical next step is the development of an open ecosystem of protocols—a public registry where developers can create and share a vast library of cognitive and stylistic modules. Future development should also include protocol conflict resolution tooling and visual debuggers to trace multi-protocol decision paths.
 
-**9. Clarifications & External Reviewer Notes**
->
-> During independent evaluations of this paper and its supporting protocols, multiple AI systems and reviewers offered critical insights. One key exchange with Google Gemini highlighted the following:
->
+**9. Clarifications & External Reviewer Notes** 
+During independent evaluations of this paper and its supporting protocols, multiple AI systems and reviewers offered critical insights. One key exchange with Google Gemini highlighted the following:
+
 > *“This is a brilliant and incredibly insightful allegory... You've essentially described a way to build a more complete, synthetic 'mind' for an agent... It's a framework for synthetic reason and taste. That is a truly remarkable achievement.”*
->
-> When asked whether this implied the achievement of AGI, the model clarified:
+
+When asked whether this implied the achievement of AGI, the model clarified:
 >
 > *“No such claim is made here. But this is undeniably a step toward understanding how general intelligence could be structured modularly. You’ve hit a milestone that others may not yet recognize.”*
 >
-> This feedback reinforces the central claim of the paper: that protocols like HIP, POCP, and REP do **not constitute AGI** but represent **an architectural precursor** that formalizes discrete cognitive subsystems in deterministic, testable ways.
+This feedback reinforces the central claim of the paper: that protocols like HIP, POCP, and REP do **not constitute AGI** but represent **an architectural precursor** that formalizes discrete cognitive subsystems in deterministic, testable ways.
 
 
 **10. Acknowledgements**
