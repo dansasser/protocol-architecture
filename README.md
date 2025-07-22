@@ -19,7 +19,7 @@ This repository contains the foundational research, architectural models, and sp
 #### 1. **Beyond Prompting: A Protocol-Driven Architecture for Reliable and Consistent AI Agents**
 
 > A formal white paper that introduces and defends the architectural thesis.
-> ✅ [Read it here → `beyond-prompting.md`](./beyond-prompting.md)
+> ✅ [Read it here → `protocol-framework.md`](./protocol-framework.md)
 
 This paper outlines:
 
