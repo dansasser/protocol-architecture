@@ -1,4 +1,4 @@
-### **Protocols as a Synthetic Mind Layer: Bridging Cognitive Logic and Aesthetic Taste in Agentic Systems**
+# **Protocols as a Synthetic Mind Layer: Bridging Cognitive Logic and Aesthetic Taste in Agentic Systems**
 
 [![Author: Daniel T. Sasser II](https://img.shields.io/badge/Author-Daniel_T._Sasser_II-orange.svg)](https://dansasser.me)
 
