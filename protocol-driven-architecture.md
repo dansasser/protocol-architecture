@@ -90,9 +90,9 @@ The author wishes to thank the Gorombo development team, early users of the MCP 
 
 ### 8.0 References
 
-\[1] Anthropic. "Constitutional AI." 2023.
-\[2] Microsoft. "AutoGen Framework Documentation." 2024.
-\[3] LangChain. "LangGraph Overview." 2025.
-\[4] Sasser, Daniel T. "Hyperlink Interpretation Protocol (HIP)." 2025.
-\[5] Sasser, Daniel T. "Punctuated Output Control Protocol (POCP)." 2025.
-\[6] Sasser, Daniel T. "Readability Enhancement Protocol (REP)." 2025.
+[1] Anthropic. "Constitutional AI." 2023.
+[2] Microsoft. "AutoGen Framework Documentation." 2024.
+[3] LangChain. "LangGraph Overview." 2025.
+[4] Sasser, Daniel T. "Hyperlink Interpretation Protocol (HIP)." 2025.
+[5] Sasser, Daniel T. "Punctuated Output Control Protocol (POCP)." 2025.
+[6] Sasser, Daniel T. "Readability Enhancement Protocol (REP)." 2025.
