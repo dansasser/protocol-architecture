@@ -31,7 +31,7 @@ To ground our central thesis, we define our core metaphors as follows:
 
 Current agentic systems typically consist of two primary layers: a high-level orchestration or workflow engine (the "Planner") and a low-level inference engine (the "Executor," i.e., the LLM call). This structure leaves a critical gap. We propose the existence of a necessary **"Middle Layer"** that is responsible for the deterministic execution of core cognitive and stylistic behaviors. This creates a clean and powerful separation of concerns:
 
-* **Strategy Layer (The Recipe or Plan):** The high-level workflow that defines goals and sequences agents.
+* **Strategy Layer (The Plan):** The high-level workflow that defines goals and sequences agents.
 * **Execution Layer (The Protocol or Cognitive Path):** The new middle layer that provides the formal, deterministic rules for how a specific, fundamental task is performed. Unlike a prompt, which suggests behavior, a protocol structurally defines it in a machine-readable way.
 * **Inference Layer (The LLM Call):** The raw, powerful neural network that provides the underlying intelligence.
 
